@@ -1,6 +1,9 @@
 # Backend secrets
 backend/src/main/resources/application.properties
 
+# Project documentation (local only)
+PROJECT_DOCUMENTATION.html
+
 # Maven
 backend/target/
 backend/.mvn/wrapper/maven-wrapper.jar
